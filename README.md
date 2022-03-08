@@ -1,5 +1,5 @@
-<h1 align="center" >{工具备忘录}</h1>
-<h3 align="center" >{网络安全工作做使用到的工具、插件}</h3>
+<h1 align="center" >工具备忘录</h1>
+<h3 align="center" >网络安全工作做使用到的工具、插件</h3>
  <p align="center">
     <a href="https://github.com/RDPMind/template"></a>
     <a href="https://github.com/RDPMind/template"><img alt="template" src="https://img.shields.io/badge/template-green"></a>
@@ -13,9 +13,15 @@
 	<a xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://visitor-badge.laobi.icu"><rect fill="rgba(0,0,0,0)" height="20" width="17.0" x="49.6"/></a>
 	</p>
 
-  
+-------------------------------------------------------------------------------------------------------
 
-## 
+
+
+[toc]
+
+---------------------------------------
+
+
 
 # 0x01 资产
 
@@ -146,6 +152,16 @@ web目录快速扫描工具
 
 https://github.com/H4ckForJob/dirmap
 
+##  **Arjun**
+
+http参数扫描器，主要就是爆破url参数
+
+https://github.com/s0md3v/Arjun
+
+
+
+`python3 arjun.py -u https://api.example.com/endpoint --get`
+
 
 
 # 0x04
@@ -212,17 +228,135 @@ https://github.com/projectdiscovery/nuclei-templates
 
 
 
+## Hunter_view
+
+
+
 https://github.com/0x727/Hunter_view
 
 ## shodan.io
 
+查看网站ip,以及开放的端口
 
+## ZoomEye Tools
+
+
+
+## Hack-Tools
+
+集合大部分渗透测试会用到的命令
+
+https://github.com/LasCC/Hack-Tools
+
+## Proxy SwitchyOmega
+
+轻松快捷地管理和切换多个代理设置
+
+## FoxyProxy Standard
+
+完全替代了Firefox有限的代理功能。可自定义配置代理并快速完成代理切换。
+
+
+
+## HackBar
+
+
+
+## Max HacKBar
+
+
+
+## X-Forwarded-For Header
+
+在请求里面加X-Forwarded-For头
+
+
+
+## NoScript
+
+这个插件可用于禁止浏览器加载和解析JS代码，也可以通过以下两种方式禁止执行JS，常见应用场景有：禁用JS后台越权、禁用JS白名单上传等
 
 
 
 ## wappalyzer
 
 https://www.wappalyzer.com/
+
+
+
+## EditThisCookie
+
+管理浏览器上的各种Cookies，支持添加，删除，编辑，搜索，锁定、屏蔽、保护和拦截Cookies
+
+
+
+## EditThisCookie2
+
+修改用户Cookie，实现Cookie的替换
+
+
+
+## User-Agent Switcher
+
+指定User-Agent去访问网站
+
+
+
+## ModHeader
+
+修改任意请求、响应头，方便我们构造想要的访问包
+
+## Set Character Encoding
+
+修改当前浏览器的编码
+
+
+
+## Charset
+
+修改当前浏览器的编码
+
+## FindSomething
+
+
+
+## OneTab
+
+标签管理器
+
+
+
+## web-developer
+
+禁用js，禁用css，缓存，图片
+
+
+
+## Hunter
+
+查找网站域名下的电子邮件地址
+
+
+
+## XSS Rays
+
+
+
+## Easy XSS
+
+
+
+## DNS Checker
+
+
+
+
+
+## ShowIP
+
+
+
+
 
 
 
